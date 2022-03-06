@@ -1,0 +1,106 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.mainheader{
+    text-align: center;
+    font-size: 30px;
+    text-transform: uppercase;
+}
+div{
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    
+}
+a{  color: white;
+    margin: 10px;
+    padding-left: 10px;
+padding-right: 10px;}
+.zero{
+    min-width: 1000px;
+    min-height: 80vh;
+    background-size: cover;
+    text-align: right;
+background: linear-gradient(to right, rgb(145, 178, 189), #585197);
+font-size: 25px;
+}
+img{
+    float: right;
+}
+.one{
+    color: white;
+    min-width: 1000px;
+    min-height: 100vh;
+    font-size: 25px;
+    background-position: center;
+    align-items: center;
+    text-align: center;
+    background-attachment: fixed;
+    text-align: center;
+    background: url(../pics/Cute\ Olivia_edited.jpg);
+    background-repeat: no-repeat;
+    background-size: cover ;
+
+}
+.two{
+    color: white;
+    min-width: 1000px;
+    min-height: 100vh;
+    font-size: 25px;
+    background-position: center;
+    align-items: center;
+    text-align: center;
+    background-attachment: fixed;
+    background: url(../pics/Traitercover_edited.jpg);
+    text-align: center;
+    background-repeat:no-repeat;
+    background-size: cover;
+}
+.three{
+    min-width: 1000px;
+    min-height: 100vh;
+    font-size: 25px;
+    background-position: center;
+    align-items: center;
+    text-align: center;
+    background-attachment: fixed;
+    background: url(../pics/good\ for\ you\ cover__edited.jpg);
+    text-align: center;
+    background-repeat:no-repeat;
+    background-size: cover;
+}
+.four{
+    color: white;
+    min-width: 1000px;
+    min-height: 100vh;
+    font-size: 25px;
+    background-position: center;
+    align-items: center;
+    text-align: center;
+    background-attachment: fixed;
+    background: url(../pics/live\ olivia_edited.jpg);
+    text-align: center;
+    background-repeat:no-repeat;
+    background-size: cover;
+}
+.five{
+    min-width: 1000px;
+    min-height: 100vh;
+    font-size: 25px;
+    background-position: center;
+    align-items: center;
+    text-align: center;
+    background-attachment: fixed;
+    background: url(../pics/Sour-Olivia-Rodrigo_edited.jpg);
+    text-align: center;
+    background-repeat:no-repeat;
+    background-size: cover;
+}
+.link{min-height: 0%;
+    
+    background-color: blueviolet;
+    background: linear-gradient(to bottom,rgb(133, 18, 168),rgb(235, 162, 28));
+    font-size: 30px;
+}

@@ -1,0 +1,43 @@
+*{  font-family: cursive;
+    box-sizing: border-box;
+    margin: 20px;
+
+}
+body{font-size: 25px;
+    min-height: 100vh;
+    background: rgb(238,174,202);
+background: radial-gradient(circle, rgb(243, 120, 173) 0%, rgb(120, 178, 243) 100%);
+}
+#header1{
+    color: rgb(0, 0, 0);
+    text-align: center;
+}
+.list0{
+    text-decoration: none;
+    list-style: upper-roman;
+
+}
+div{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    float: left;
+    height: 100px;
+    width: 25%;
+    transition: all 0.5s ease-in-out;
+}
+div:hover{
+    transform: translateY(30px);
+}
+.one{
+    font-size: 20px;
+}
+.two{
+    font-size: 20px;
+}
+.three{font-size: 20px;
+
+}
+.four{
+    font-size: 20px;
+}

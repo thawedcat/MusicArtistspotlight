@@ -1,0 +1,56 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: cursive;
+    font-size: 20px;
+
+}
+a{  margin: 10px;
+    padding-left: 10px;
+padding-right: 10px;}
+div{
+    text-align: center;
+    box-sizing: border-box;
+    color: black;
+}
+.zero{
+    min-width: 80vw;
+    min-height: 40vh;
+    background: linear-gradient( to top,rgb(255, 208, 0), aqua);
+
+}
+img{
+    float: right;
+}
+.one{
+    min-width: 80vw;
+    min-height: 90vh;
+    background: url(../pics/badguy\ max_edited.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.two{
+    color: white;
+    min-width: 80vw;
+    min-height: 90vh;
+    background: url(../pics/Billie-Eilish-2018-press-shot-web-optimised-1000_edited.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.three{
+    color: white;
+    min-width: 80vw;
+    min-height: 90vh;
+    background: url(../pics/finneas_edited.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.link{min-height: 0%;
+    
+    
+    background-color: yellow;
+    font-size: 30px;
+}

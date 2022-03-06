@@ -1,0 +1,76 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+div{
+    text-align: center;
+    color: white;
+    font-size: 15px;
+    font-family: fantasy;
+    min-height: 100vh;
+    min-width: 80vw;
+}
+a{  color: rgb(2, 1, 1);
+    margin: 10px;
+    padding-left: 10px;
+padding-right: 20px;}
+.zero{
+    min-height: 60vh;
+    background:radial-gradient( rgba(240, 219, 125, 0.301), black);
+}
+img{
+    float: right;
+}
+.one{
+    background: url(../pics/crawl\ outta\ love\ background.jpg);
+    background-size: cover;
+    background-position: center;
+    align-items: center;
+    text-align: center;
+    background-attachment: fixed;
+    font-size: 30px;
+}
+.two{
+    background: url(../pics/gold\ \(stupid\ love\)_edited.jpg);
+    background-size: cover;
+    background-position: center;
+    align-items: center;
+    text-align: center;
+    background-attachment: fixed;
+    font-size: 30px;
+}
+.three{
+    background: url(../pics/sideways.jpg);
+    background-size: cover;
+    background-position: center;
+    align-items: center;
+    text-align: center;
+    background-attachment: fixed;
+    font-size: 30px;
+
+}
+.four{
+    background: url(../pics/story\ of\ my\ life_edited.jpg);
+    background-size: cover;
+    background-position: center;
+    align-items: center;
+    text-align: center;
+    background-attachment: fixed;
+    font-size: 30px;
+}
+.five{
+    background: url(../pics/bravesoul_edited.jpg);
+    background-size: cover;
+    background-position: center;
+    align-items: center;
+    text-align: center;
+    background-attachment: fixed;
+    font-size: 30px;
+}
+.link{min-height: 0%;
+    
+    background-color: blueviolet;
+    background: linear-gradient( to right, rgb(0, 0, 0),white, black);
+    font-size: 30px;
+}
